@@ -1,0 +1,4 @@
+github.com/apache/thrift v0.20.0 h1:631+KvYbsBZxmuJjYwhezVsrfc/TbqtZV4QcxOX1fOI=
+github.com/apache/thrift v0.20.0/go.mod h1:hOk1BQqcp2OLzGsyVXdfMk7YFlMxK3aoEVhjD06QhB8=
+github.com/seaweedfs/seaweedfs v0.0.0-20240824034259-0d435f9da442 h1:TdLK3Y1PZkdvkQYtE5hf63rx84Iu7gHtBwaIR0gxudE=
+github.com/seaweedfs/seaweedfs v0.0.0-20240824034259-0d435f9da442/go.mod h1:MawaSNJUHBWfJ87auYGp9ujsOUhhlS6++dxgkO269k8=
